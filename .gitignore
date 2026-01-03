@@ -1,0 +1,29 @@
+# Временные файлы
+~$*.xlsx
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel файлы (если большой размер)
+# Книга1.xlsx
+
